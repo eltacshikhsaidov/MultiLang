@@ -12,7 +12,7 @@ Here code means the word you declared ```message_lang.properties``` files.
 Suppose you created code greeting
 
 * ```message_en.properties``` -> greeting=Hello
-* ```message_ru.properties``` -> greeting=Privet
+* ```message_ru.properties``` -> greeting=Привет
 * ```message_az.properties``` -> greeting=Salam
 
 Then just simple call the following method
